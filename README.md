@@ -1,2 +1,2 @@
-# leetcode_winter
-In the winter holiday, Zhu rongrong, Gao yuan, Li qi and me four students practice leetcode.
+寒假练习leetcode，每人每天上传代码及说明。
+每天两道题，请坚持。
